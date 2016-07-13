@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.nicktgn.deferred:tiny-deferred:0.1.0@aar'
+    compile 'com.github.nicktgn.deferred:tiny-deferred:0.1.0'
 }
 ```
 
